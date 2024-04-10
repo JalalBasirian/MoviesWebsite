@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Learnings\\Projects\\MoviesWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF20FE-46B9-4106-8935-0F95770CE156}|MoviesWeb.csproj|c:\\learnings\\projects\\moviesweb\\controllers\\castscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF20FE-46B9-4106-8935-0F95770CE156}|MoviesWeb.csproj|solutionrelative:controllers\\castscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF20FE-46B9-4106-8935-0F95770CE156}|MoviesWeb.csproj|c:\\learnings\\projects\\moviesweb\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF20FE-46B9-4106-8935-0F95770CE156}|MoviesWeb.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF20FE-46B9-4106-8935-0F95770CE156}|MoviesWeb.csproj|c:\\learnings\\projects\\moviesweb\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF20FE-46B9-4106-8935-0F95770CE156}|MoviesWeb.csproj|solutionrelative:data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF20FE-46B9-4106-8935-0F95770CE156}|MoviesWeb.csproj|c:\\learnings\\projects\\moviesweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF20FE-46B9-4106-8935-0F95770CE156}|MoviesWeb.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CastsController.cs",
+              "DocumentMoniker": "C:\\Learnings\\Projects\\MoviesWeb\\Controllers\\CastsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CastsController.cs",
+              "ToolTip": "C:\\Learnings\\Projects\\MoviesWeb\\Controllers\\CastsController.cs",
+              "RelativeToolTip": "Controllers\\CastsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T20:31:23.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Learnings\\Projects\\MoviesWeb\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Learnings\\Projects\\MoviesWeb\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T20:30:59.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBInitializer.cs",
+              "DocumentMoniker": "C:\\Learnings\\Projects\\MoviesWeb\\Data\\DBInitializer.cs",
+              "RelativeDocumentMoniker": "Data\\DBInitializer.cs",
+              "ToolTip": "C:\\Learnings\\Projects\\MoviesWeb\\Data\\DBInitializer.cs",
+              "RelativeToolTip": "Data\\DBInitializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T20:18:05.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learnings\\Projects\\MoviesWeb\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Learnings\\Projects\\MoviesWeb\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T20:04:13.554Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
